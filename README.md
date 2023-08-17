@@ -16,7 +16,7 @@ Predictive maintenance is a crucial aspect of ensuring the reliability and longe
 Installation
 To get started, follow these steps to set up the environment:
 
-Clone the repository: git clone https://github.com/your-username/predictive-turbofan-maintenance.git
+Clone the repository: git clone https://github.com/22m0052-Rajat/predictive-turbofan-maintenance.git
 Navigate to the project directory: cd predictive-turbofan-maintenance
 Create a virtual environment: python -m venv venv
 Activate the virtual environment:
